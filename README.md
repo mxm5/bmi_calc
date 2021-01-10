@@ -1,6 +1,8 @@
-![App Brewery Banner](GetImage.jpeg)
-![App Brewery Banner](i.jpeg)
 
+
+|   |   | 
+|-------------- | -------------- | 
+|  ![App Brewery Banner](GetImage.jpeg)  |![App Brewery Banner](i.jpeg)     | 
 
 # BMI Calculator 💪
 
